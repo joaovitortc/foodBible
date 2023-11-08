@@ -1,0 +1,597 @@
+{     
+    "dishes": [
+      {
+        "dish_name": "Mozzarella e Prosciutto",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (mozzarella –COW)"],
+        "ingredients": [
+          "Fresh mozzarella",
+          "Prosciutto di Parma 18 month DOP",
+          "Olitalia Olive Oil",
+          "Maldon salt"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Grande Tagliere di Salumi e Formaggi",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN (bruschetta)", "DAIRY(COW)", "NUTS (walnut, almonds)", "MUSTARD (apricot mostarda)", "CAPSICUM (chili flakes –apricot mostarda)", "ALCOHOL/SULPHITES (white wine -apricot mostarda)"],
+        "ingredients": [
+          "Prosciutto di Parma 14 month",
+          "Coppa Piacentina DOP",
+          "Mortadella",
+          "Provolone Piccante (COW, thermalized)",
+          "Taleggio DOP (COW, pasteurized)",
+          "Gorgonzola Dolce DOP (COW, pasteurized)",
+          "Apricot mostarda (apricots, white sugar, chili flakes, water, mustard seed, white wine)",
+          "Walnut halves",
+          "Red grapes",
+          "Roasted almonds",
+          "Rustic bread",
+          "Bella Casara ricotta",
+          "Truffle honey (Urbani black truffle carpaccio shaved truffles, Urbani fresh black winter truffles, Billy Bee honey)",
+          "Olitalia Olive Oil",
+          "Maldon salt"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Lo Spaghetto al Pomodoro",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "NIGHTSHADES (tomato)", "DAIRY (only if mozzarella is added)"],
+        "ingredients": [
+          "Afeltra spaghetti (durum wheat semolina)",
+          "Cosi Come Datterino tomatoes",
+          "Coarse sea salt",
+          "ROI Extra Virgin Olive Oil",
+          "Basil",
+          "Add on: half ball of fresh Mozzarella"
+        ],
+        "pick-up_time": "12 MINUTES"
+      },
+      {
+        "dish_name": "Mezzi Paccheri al Ragu Toscano",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "NIGHTSHADES (ragu -tomato)", "DAIRY (pecorino -SHEEP)", "ALLIUM (ragu -onion)", "SULPHITES/ALCOHOL (ragu–red wine)"],
+        "ingredients": [
+          "Afeltra mezzi paccheri (durum wheat semolina)",
+          "Ragu Toscano/Fiorentino (Olitalia Olive Oil Blend, white onion, carrot, celery, red wine, water, tomato passata, fine sea salt, black pepper, rosemary, Woodward AAA beef chuck)",
+          "Pecorino Romano",
+          "Olitalia Olive Oil"
+        ],
+        "pick-up_time": "15 MINUTES"
+      },
+      {
+        "dish_name": "Quadrati di Ricotta e Spinaci",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "NIGHTSHADES (tomato)", "DAIRY (COW)"],
+        "ingredients": [
+          "Fresh pasta dough (eggs, water, durum wheat semolina)",
+          "Filling (Bella Casara ricotta, Grana Padano 12 month, ground baby spinach, fine sea salt)",
+          "Basic tomato sauce (peeled Mutti tomatoes, Olitalia Blend Olive Oil, coarse sea salt, water, basil)",
+          "Grana Padano 12 month",
+          "Parmigiano Reggiano 12 month",
+          "Basil",
+          "Olitalia Olive Oil Blend"
+        ],
+        "pick-up_time": "7 MINUTES"
+      },
+      {
+        "dish_name": "Agnolotti del Plin al Brasato",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "DAIRY (COW)", "CAPSICUM (filling –chili flakes)", "ALLIUM (filling –onion)", "SULPHITES/ALCOHOL (filling –white wine)"],
+        "ingredients": [
+          "Plin masterdough (eggs, water, durum wheat semolina, Molino Pasini type 00 flour)",
+          "Filling (veal breast, pork butt, generic rub [fine sea salt, brown sugar, black pepper, chili flakes, water], black kale, spanish onion, carrot, green cabbage, white wine, chicken stock [water, mirepoix, chicken bones, feet, and thighs], thyme, sage, bay leaves, spinach, Grana Padano 12 month, kosher salt, nutmeg)",
+          "Unsalted butter",
+          "Grana Padano 12 month",
+          "Parmigiano Reggiano 12 month"
+        ],
+        "pick-up_time": "5-7 MINUTES"
+      },
+      {
+        "dish_name": "Ravioli di Zucca",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "DAIRY (COW)", "TREE NUTS (hazelnuts)", "SULFITES (mostarda)"],
+        "ingredients": [
+          "Fresh pasta dough (eggs, water, durum wheat semolina)",
+          "Filling (butternut squash, Olitalia Olive Oil Blend, kosher salt, Grana Padano 12 month, fine sea salt, mostarda di cremona [peaches, pears, papaya, cherries, clementines, figs, kiwi, glucose syrup, sugar, glucose-fructose syrup, mustard seed, mustard flavor, acidifier: E330, Color: E127, Preservative: E220 {anhydride sulphurous}])",
+          "Parmigiano cream sauce (35% cream, Grana Padano 12 month, Parmigiano Reggiano 12 month)",
+          "Grana Padano 12 month",
+          "Parmigiano Reggiano 12 month",
+          "Sage",
+          "Blanched raw hazelnuts"
+        ],
+        "pick-up_time": "7 MINUTES"
+      },
+      {
+        "dish_name": "Tagliatelle al Tartufo",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "DAIRY (COW)", "SULPHITES/ALCOHOL (white wine)", "TRUFFLE"],
+        "ingredients": [
+          "Fresh pasta dough (eggs, water, durum wheat semolina)",
+          "Truffle butter sauce (water, corn starch, Stirling Creamery unsalted butter, Parmigiano Reggiano 12 month, Gay Lea unsalted butter, Urbani truffle sauce with mushrooms, Urbani fresh burgundy truffles, Urbani black truffle carpaccio shaved truffles)",
+          "Parmigiano Reggiano 12 month"
+        ],
+        "pick-up_time": "7 MINUTES"
+      },
+      {
+        "dish_name": "Gnocchi al Pesto",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "DAIRY (COW)", "NUTS (pine nuts)"],
+        "ingredients": [
+          "Potato gnocchi (riced russet potato, fine sea salt, rice flour, Molino Pasini type 00 flour)",
+          "Basil pesto (Olitalia Olive Oil Blend, basil, Grana Padano 12 month, Parmigiano Reggiano 12 month, Pecorino, pine nuts, fine sea salt, citric acid)",
+          "Pecorino Romano DOP"
+        ],
+        "pick-up_time": "7 MINUTES"
+      },
+      {
+        "dish_name": "Gnocchi ai Quattro Formaggi",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "DAIRY (COW)", "NUTS (walnuts)"],
+        "ingredients": [
+          "Potato gnocchi (riced russet potato, fine sea salt, rice flour, Molino Pasini type 00 flour)",
+          "Quattro formaggi sauce (milk, fine sea salt, Mascarpone, Gorgonzola Piccante DOP, Montasio, Grana Padano 12 month, water)",
+          "Walnut halves"
+        ],
+        "pick-up_time": "7 MINUTES"
+      },
+      {
+        "dish_name": "Gnocchi alla Sorrentina",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGG", "DAIRY (COW)", "NIGHTSHADES (tomato)"],
+        "ingredients": [
+          "Potato gnocchi (riced russet potato, fine sea salt, rice flour, Molino Pasini type 00 flour)",
+          "Basil",
+          "Fresh mozzarella",
+          "Basic tomato sauce (peeled Mutti tomatoes, Olitalia Blend Olive Oil, coarse sea salt, water, basil)",
+          "Grana Padano 12 month",
+          "Parmigiano Reggiano 12 month"
+        ],
+        "pick-up_time": "7 MINUTES"
+      },
+      {
+        "dish_name": "Gnocchi con Ragu di Salsiccia e Funghi",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY (COW)", "ALLIUM (norcina sauce–garlic, onion)", "CAPSICUM (norcina sauce –chili flakes)", "SULPHITES/ALCOHOL (norcina sauce–white wine)"],
+        "ingredients": [
+          "Potato gnocchi(riced russet potato, fine sea salt, rice flour, Molino Pasini type 00 flour)",
+          "norcina sauce(sweet & simple sausage [pork shoulder, fine sea salt, white sugar, black pepper, chili flakes, water], Olitalia Olive Oil Blend, garlic confit oil [garlic, canola oil], mushroom ragu [oyster, brown cremini, porcini, and button mushrooms, fine sea salt, water, thyme, rosemary, bay leaves, shallot confit{shallot, olive oil}, garlic confit{garlic, canola oil}, Olitalia Olive Oil Blend, white wine], white wine, vegetable stock [water, bay leaves, thyme, spanish onion, carrot, celery], fine sea salt, black pepper, black truffle butter [unsalted butter, Urbani truffle sauce with mushrooms, black winter truffle], pork hog casings, porcini mushrooms)",
+          "Grana Padano 12 month",
+          "Parmigiano Reggiano 12 month",
+          "unsalted butter"
+        ],
+        "pick-up_time": "6-7 MINUTES"
+      },
+      {
+        "dish_name": "Tagliatelle alla Bolognese",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGGS", "DAIRY (COW)", "NIGHTSHADE (bolognese-tomato)", "ALLIUM (bolognese –onion)", "SULPHITES/ALCOHOL (bolognese –red wine)"],
+        "ingredients": [
+          "Fresh pasta dough (eggs, water, durum wheat semolina)",
+          "ragu bolognese(white onion, carrot, celery, bay leaves, Olitalia Olive Oil Blend, pancetta, tomato paste, red wine, tomato passata, water, milk, fine sea salt, Duroc pork butt, Woodward AAA beef chuck)",
+          "Parmigiano Reggiano 24 month*dairy cannot be removed as there is milk in the bolognese sauce"
+        ],
+        "pick-up_time": "7-9 MINUTES"
+      },
+      {
+        "dish_name": "Linguine allo Scoglio",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SEAFOOD/MOLLUSCS/FISH/CRUSTACEANS(shrimp, clams, mussels, calamari, anchovies)", "NIGHTSHADE (tomato)", "ALLIUM (scoglio base –garlic)", "SULPHITES/ALCOHOL (scoglio base –white wine)"],
+        "ingredients": [
+          "Afeltra linguine (durum wheat semolina)",
+          "manilla clams",
+          "PEI mussels",
+          "argentinian pink shrimp",
+          "Olitalia Olive Oil",
+          "parsley",
+          "cherry tomato",
+          "scoglio base (soffritto di mare [anchovies, garlic, capers, chili flakes], Olitalia Olive Oil Blend, squid rings and tentacles, basic tomato sauce [peeled Mutti tomatoes, Olitalia Blend Olive Oil, coarse sea salt, water, basil], water, white wine, gulf shrimp)",
+          "* “allo scoglio” means “of the rock” - fishermen used to add small seashore rocks to pots loaded with live shellfish and shake it, making the molluscs detach from their shells and become easier to eat"
+        ],
+        "pick-up_time": "15 MINUTES"
+      },
+      {
+        "dish_name": "Spaghetti Cacio e Pepe",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY (pecorino -SHEEP)"],
+        "ingredients": [
+          "Afeltra spaghetti (durum wheat semolina)",
+          "cacio e pepe sauce (water, Pecorino Romano DOP, cornstarch, black pepper)",
+          "Pecorino Romano DOP",
+          "black pepper"
+        ],
+        "pick-up_time": "15 MINUTES"
+      },
+      {
+        "dish_name": "Lasagne Emiliane",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY(COW)", "EGGS", "NIGHTSHADE (bolognese -tomato)", "ALLIUM (bolognese –onion)", "SULPHITES/ALCOHOL (bolognese –red wine)"],
+        "ingredients": [
+          "Fresh pasta dough (eggs, water, durum wheat semolina)",
+          "bechamel sauce (milk, all-purpose flour, black pepper, bay leaves, unsalted butter, fine sea salt)",
+          "basic tomato sauce (peeled Mutti tomatoes, Olitalia Blend Olive Oil, coarse sea salt, water, basil)",
+          "ragu bolognese (white onion, carrot, celery, bay leaves, Olitalia Olive Oil Blend, pancetta, tomato paste, red wine, tomato passata, water, milk, fine sea salt, Duroc pork butt, Woodward AAA beef chuck)",
+          "Grana Padano 12 month",
+          "Parmigiano Reggiano 12 month"
+        ],
+        "pick-up_time": "7-8 MINUTES"
+      },
+      {
+        "dish_name": "Rigatoni alla Carbonara",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY (pecorino -SHEEP)", "EGGS"],
+        "ingredients": [
+          "Afeltra rigatoni (durum wheat semolina)",
+          "rendered guanciale",
+          "carbonara base (eggs, Pecorino Romano DOP, guanciale fat, black pepper)",
+          "Pecorino Romano DOP",
+          "black pepper",
+          "Olitalia Olive Oil Blend"
+        ],
+        "pick-up_time": "15 MINUTES"
+      },
+      {
+        "dish_name": "Pane Rustico",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN"],
+        "ingredients": [
+          "Mulino Marino Spolvero flour",
+          "Master Dough (Mulino Marino Buratto flour, Mulino Marino type 0 flour, Mother Yeast, Old Dough, fine sea salt, Fresh Eagle yeast, water)",
+          "Olitalia EVOO"
+        ],
+        "pick-up_time": "3 MINUTES"
+      },
+      {
+        "dish_name": "Focaccia Bianca",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "BARLEY (diastatic malt flour)"],
+        "ingredients": [
+          "Focaccia Genovese Dough (Mulino Marino Flour Type 0, Olitalia European Oil Blend, fine sea salt, Fresh Eagle yeast, water, Diastatic Malt Flour, Olitalia EVOO)",
+          "Salamoia* (Olitalia European Oil Blend, water, fine sea salt, Olitalia EVOO)",
+          "rosemary",
+          "Olitalia EVOO",
+          "*salamoia is a brine, squeezed on top of the focaccia"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Focaccia Rossa",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "BARLEY (diastatic malt flour)", "NIGHTSHADE (tomato)"],
+        "ingredients": [
+          "Focaccia Genovese Dough (Mulino Marino Flour Type 0, Olitalia European Oil Blend, fine sea salt, Fresh Eagle yeast, water, Diastatic Malt Flour, Olitalia EVOO)",
+          "Salamoia (Olitalia European Oil Blend, water, fine sea salt, Olitalia EVOO)",
+          "Mutti Tomato Polpa",
+          "oregano",
+          "Olitalia EVOO"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Suppli",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "EGGS", "DAIRY", "NIGHTSHADE (tomato)"],
+        "ingredients": [
+          "Tomato Risotto Mix (Basic Tomato sauce [peeled Mutti tomatoes, Olitalia Blend Olive Oil, coarse sea salt, water, basil], water, Gay Lea unsalted butter, fine sea salt, Mozzarella, Olitalia Blend Olive Oil, Arborio rice)",
+          "egg",
+          "all-purpose flour",
+          "Mozzarella",
+          "Molino Grassi organic semolina flour",
+          "*Suppli originate from Rome/Lazio"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Misticanza alla Romana",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (pecorino –SHEEP)", "TREE NUTS (hazelnuts)", "SULPHITES/ALCHOHOL (prosecco vinaigrette)", "MUSTARD (prosecco vinaigrette)"],
+        "ingredients": [
+          "Radicchio",
+          "romaine",
+          "arugula",
+          "parsley",
+          "basil",
+          "mint",
+          "red radish",
+          "green beans",
+          "fennel",
+          "prosecco vinaigrette (champagne vinegar, honey, Dijon mustard, black pepper, Olitalia Olive Oil Blend, fine sea salt, Frienn oil*)",
+          "Pecorino Romano DOP",
+          "blanched raw hazelnuts",
+          "*Friennoil is sunflower oil"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Barbabietole",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (ricotta –COW)", "TREE NUTS (hazelnuts)", "SULPHITES/ALCOHOL (red wine agrodolce)"],
+        "ingredients": [
+          "Whipped ricotta (Olitalia Olive Oil Blend, Bella Casara Ricotta, milk, fine sea salt)",
+          "arugula",
+          "Cooked Marinated Beets (red agrodolce [red wine vinegar, sugar], peeled beets, water)",
+          "fine sea salt",
+          "blanched raw hazelnuts",
+          "*alcohol cannot be removed as beets are pre-marinated"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Insalata Tricolore",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (pecorino –SHEEP)", "GLUTEN (breadcrumbs)", "ALLIUM (shallots, garlic)", "FISH (anchovies)"],
+        "ingredients": [
+          "Belgian endive",
+          "red Belgian endive",
+          "baby arugula",
+          "Pecorino Romano DOP",
+          "breadcrumbs",
+          "anchovy vinaigrette (Recca anchovy pieces in sunflower oil, lemon juice, mint, shallot, Olitalia Olive Oil Blend, garlic, water)"
+        ],
+        "special_note": "*This salad is not vegetarian because of the dressing",
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Bruschetta con Ricotta Miele e Tartufo",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY (ricotta –COW)"],
+        "ingredients": [
+          "Rustic bread",
+          "Bella Casara Ricotta",
+          "truffle honey (Urbani black truffle carpaccio shaved truffles, Urbani fresh black winter truffles, Billy Bee honey)",
+          "Olitalia Olive Oil",
+          "Maldon salt"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Polpette",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN (pala bianca, meatball mixture)", "EGGS (meatball mixture)", "DAIRY (pecorino, parmigiano, ricotta –SHEEP, COW)", "NIGHTSHADE (tomato)", "ALLIUM (garlic)"],
+        "ingredients": [
+          "Meatballs (Duroc pork butt, Woodward AAA beef brisket, milk, egg, ricotta, garlic confit [garlic, canola oil], fine sea salt, black pepper, Parmigiano Reggiano 12 month, Grana Padano 12 month, parsley, breadcrumbs, water)",
+          "Basic tomato sauce (peeled Mutti tomatoes, Olitalia Blend Olive Oil, coarse sea salt, water, basil)",
+          "pala bianca",
+          "Pecorino Romano"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Carpaccio di Manzo",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (Parmigiano –COW)"],
+        "ingredients": [
+          "AAA PEI Beef eye round",
+          "baby arugula",
+          "lemon juice",
+          "Olitalia Olive Oil Blend",
+          "Parmigiano Reggiano 12 month",
+          "fine sea salt"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Pandoro",
+        "dish_img": "",
+        "common_allergies": ["Wheat", "Dairy", "Eggs", "Nuts (may contain)"],
+        "ingredients": [
+          "Lievito madre (mother yeast)",
+          "Butter made from Piemontese cream",
+          "Fresh free-range eggs",
+          "Vanilla from Madagascar"
+        ],
+        "pick-up_time": "N/A"
+      },
+      {
+        "dish_name": "Panettone Arancia e Cioccolato",
+        "dish_img": "",
+        "common_allergies": ["Wheat", "Dairy", "Eggs", "Soy", "Nuts"],
+        "ingredients": [
+          "Lievito madre (mother yeast)",
+          "Butter made from Piemontese cream",
+          "Fresh free-range eggs",
+          "Vanilla from Madagascar",
+          "Dark chocolate chips",
+          "Lucious glaze (sugar, stone-ground IGP Piemontese hazelnuts, whole almonds)"
+        ],
+        "pick-up_time": "N/A"
+      },
+      {
+        "dish_name": "Panettone Classico",
+        "dish_img": "",
+        "common_allergies": ["Wheat", "Dairy", "Eggs", "Nuts (may contain)"],
+        "ingredients": [
+          "Lievito madre (mother yeast)",
+          "Butter made from Piemontese cream",
+          "Fresh free-range eggs",
+          "Vanilla from Madagascar",
+          "Raisins",
+          "Italian candied orange peels"
+        ],
+        "pick-up_time": "N/A"
+      },
+      {
+        "dish_name": "Marinara | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "NIGHTSHADE (tomato)", "ALLIUM (garlic)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "garlic", "oregano", "EVOO", "fresh basil"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Margherita Verace | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "NIGHTSHADE (tomato)", "DAIRY (buffalo, cow)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "Buffalo Mozzarella DOP", "fresh mozzarella", "EVOO", "fresh basil"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Quattro Formaggi | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow and sheep)"],
+        "ingredients": ["Caputo 00 flour", "Gorgonzola dolce DOP", "cream", "Pecorino Romano DOP", "mozzarella", "Parmigiano Reggiano DOP"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Massese | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (tomato)", "CAPSICUM (salami - chili)", "ALLIUM (salami – garlic)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "mozzarella", "spicy salame (pork)"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Salsicciotta | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (tomato)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "mozzarella", "sweet Italian sausage (pork, water, salt, spices, sugar, sodium erythorbate, sodium nitrite)", "mushrooms"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Cotto e Funghi | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)"],
+        "ingredients": ["Caputo 00 flour", "mozzarella", "mushrooms", "Ravagnati Gran Biscotto Prosciutto Cotto", "basil", "Parmigiano Reggiano DOP", "EVOO"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Ripieno | PIZZA",
+        "dish_img": "",
+        "common_allergies" : ["GLUTEN", "SOY (may contain)", "DAIRY (cow)"],
+        "ingredients": ["Caputo 00 flour", "ricotta", "Rovagnati Prosciutto Cotto", "mozzarella", "basil", "EVOO"],
+        "description": "This is a folded pizza",
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Capricciosa | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (tomato)", "ALLIUM (artichokes – garlic)", "CAPSICUM (artichokes - chili)", "SULPHITES (artichokes – white wine vinegar)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "mozzarella", "mushrooms", "Gaeta black olives", "Rovagnati Gran Biscotto Prosciutto Cotto", "Artichokes (sunflower oil, spices, white wine vinegar, salt, antioxidizer: E300, acidity regulator: E330)"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Acciughetta | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (tomato)", "SEAFOOD (anchovies)"],
+        "ingredients": ["Caputo 00 flour", "cherry tomato", "oregano", "anchovies"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Burrata Piccante | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (tomato)", "CAPSICUM (chili)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "fresh burrata", "chili flakes", "oregano", "basil"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Bufalotta | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (cherry tomato)"],
+        "ingredients": ["Caputo 00 flour", "mozzarella", "Rovagnati Prosciutto di Parma 18 month", "arugula", "shaved Grana Padano DOP", "fresh basil"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Salumiere | PIZZA",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "SOY (may contain)", "DAIRY (cow)", "NIGHTSHADE (tomato)", "CAPSICUM (salame – chili)"],
+        "ingredients": ["Caputo 00 flour", "San Marzano tomato", "mozzarella", "sweet Italian sausage (pork, water, salt, spices, sugar, sodium erythorbate, sodium nitrite)", "spicy salame (pork)", "Gran Biscotto Prosciutto Cotto", "EVOO", "fresh basil"],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Budino al Cioccolato | Dolci",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY", "EGGS", "SOY (IN CHOCOLATE)"],
+        "ingredients": [
+          "Budino al cioccolato (54.5% semi-sweet callet*, 35% heavy cream, whole milk, granulated sugar, egg yolks, kosher salt)",
+          "devil food cake (all-purpose flour, granulated sugar, cocoa powder, baking powder, baking soda, kosher salt, rice bran oil, eggs)",
+          "sette vele glaze (granulated sugar, 35% cream, cocoa powder, 70% bittersweet callet)",
+          "feuillettine bark (70% bittersweet callet, rice bran oil, Cacao Barry pailleté feuilletine**)",
+          "panna montata (confectioners sugar, 35% cream)"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Tiramisu | Dolci",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN", "DAIRY (cow)", "EGGS", "SOY (may contain – ladyfingers)", "MUSTARD (may contain – ladyfingers)"],
+        "ingredients": [
+          "Nonna Cream (eggs, Mauri mascarpone, granulated sugar)",
+          "ladyfingers (sugar, glucose syrup, enriched wheat flour, liquid whole egg, ammonium bicarbonate, sodium bicarbonate, sodium acid pyrophosphate, natural flavor)",
+          "Vergnano espresso",
+          "cocoa powder"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Panna Cotta ai Frutti di Bosco | Dolci",
+        "dish_img": "",
+        "common_allergies": ["DAIRY", "TREE NUTS (ALMOND)", "ALCOHOL (RUM)"],
+        "ingredients": [
+          "Panna Cotta Classica (granulated sugar, whole milk, gelatin sheets, 35% cream, Bacardi rum)",
+          "almond streusel (confectioners sugar, almond flour, unsalted butter, rice flour, kosher salt, cinnamon)",
+          "blueberries, raspberries, blackberries, sugar sweet new snow*"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Panna Cotta al Pistacchio e Albicocche | Dolci",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (cow)", "TREE NUTS (PISTACHIO, ALMOND)", "ALCOHOL (RUM)"],
+        "ingredients": [
+          "Panna Cotta Classica (granulated sugar, whole milk, gelatin sheets, 35% cream, Bacardi rum)",
+          "pistachio paste, pistachio streusel (confectioners sugar, unsalted butter, pistachio paste, rice flour, shelled raw pistachios, almond flour, kosher salt)",
+          "gelee alle albicocca (apricot puree, granulated sugar, gelatin sheets, dextrose, lemon juice)",
+          "blanched almonds"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Cannoli Siciliani | Dolci",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN (cannoli shells)", "DAIRY (cow)", "EGGS (cannoli shells)", "SOY (chocolate)", "ALCOHOL (cannoli shells – wine)", "MUSTARD (may contain – cannoli shells)", "LUPIN (may contain – cannoli shells)"],
+        "ingredients": [
+          "Cannoli shells (Flour type 00, high oleic sunflower oil, water, Manitoba flour type 0, lard, wine, granulated sugar, egg whites, vanilla, cinnamon)",
+          "classic ricotta filling (ricotta, icing sugar)",
+          "hulled raw pistachios, 70% bittersweet chocolate callet"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Coppa con Cioccolato e Nocciola | Dolci",
+        "dish_img": "",
+        "common_allergies": ["GLUTEN (cantucci)", "DAIRY (cow)", "TREE NUTS (hazelnuts, almonds)", "EGGS (gelato, cantucci)", "SOY (chocolate)"],
+        "ingredients": [
+          "Cioccolato gelato (whole milk, granulated sugar, bittersweet 70% chocolate callet, pure cocoa liquor, dextrose, neutro stabilizer, 35% heavy cream, skim milk powder, invert sugar medium)",
+          "nocciola gelato (whole milk, granulated sugar, dextrose, egg yolks, neutro stabilizer, skim milk powder, hazelnut paste)",
+          "candied hazelnuts (roasted hazelnuts, granulated sugar, water)",
+          "cantucci mandorle e cioccolato (unsalted butter, granulated sugar, eggs, unbleached flour, baking powder, kosher salt, raw almonds, 54.5% semi-sweet chocolat callet)"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Coppa con Lampone e Limone | Dolci",
+        "dish_img": "",
+        "common_allergies": ["No common allergens"],
+        "ingredients": [
+          "Sorbetto al Limone (liquid sugar [granulated sugar, dextrose, powdered glucose, water], neutro stabilizer, lemon juice, lemon zest)",
+          "ladyfingers (liquid sugar [granulated sugar, dextrose, powdered glucose, water], citric acid, neutro stabilizer, raspberry puree)",
+          "raspberries, blueberries, blackberries"
+        ],
+        "pick-up_time": "5 MINUTES"
+      },
+      {
+        "dish_name": "Affogato Classico | Dolci",
+        "dish_img": "",
+        "common_allergies": ["DAIRY (cow)"],
+        "ingredients": [
+          "Fior di latte gelato (granulated sugar, dextrose, neutro stabilizer, whole milk, skim milk powder, 35% heavy cream)",
+          "Illy espresso"
+        ],
+        "pick-up_time": "5 MINUTES"
+      }
+
+    ]
+    
+  }
+
+ 
