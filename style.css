@@ -129,12 +129,12 @@ input:focus {
   position: absolute;
   top: 0;
   right: 0;
-  color: #6c0202;
+  color: #a80303;
   /* Adjust the close button color to a warm color */
   background-color: transparent;
   border: none;
   font-size: 2em;
-  font-weight: bolder;
+  font-weight: 1000;
   cursor: pointer;
 }
 
